@@ -4,11 +4,12 @@ Cuenta dedicada a compartir fundamentos y ejercicios básicos de programación c
 
 Actualmente estoy ... 
 
- 📚 Aprendiendo | Estudiando 
- 👨‍🏫 Tomando nuevos desafios  
- 💻 Trabajando como desarrollador
- 📫 contactame via [Mail](mailto:matias.munoz@drackdesign.cl) 
- 👤 Encuentrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/)
+ 📚 Aprendiendo | Estudiando.
+ 👨‍🏫 Tomando nuevos desafíos.
+ 💻 Trabajando como desarrollador.
+ 📫 contáctame vía [Mail](mailto:matias.munoz@drackdesign.cl).
+ 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
+
 
 📚 💻 Repaso de Fundamentos de Programación 
 - [Fundamentos Html](https://github.com/kmtkei/FundamentosHTML) - en progreso.
