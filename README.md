@@ -12,9 +12,8 @@ Cuenta dedicada a compartir fundamentos y ejercicios básicos de programación c
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
  - 📷 Fotógrafo Amateur.
 
-
 📚 💻 Repaso de Fundamentos de Programación 
-- [Fundamentos Html](https://github.com/kmtkei/FundamentosHTML) - en progreso.
+- [Fundamentos de Desarrollo Web](https://github.com/kmtkei/FundamentosHTML) - en progreso.
 - [Fundamentos C#](https://github.com/kmtkei/FundamentosCSharp) - en progreso.
 - [Fundamentos Java](https://github.com/kmtkei/FundamentosJava) - en progreso.
 - [Fundamentos JavaScript](https://github.com/kmtkei/FundamentosJavaScript) - en progreso.
