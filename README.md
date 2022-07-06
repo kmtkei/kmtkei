@@ -6,7 +6,7 @@ Cuenta dedicada a compartir fundamentos y ejercicios básicos de programación c
 
  - 👨‍🎓 Técnico en Informática.
  - 📚 Estudiante de Ingeniería.
- - 👨‍🏫 Tomando nuevos desafíos.
+ - 👨‍🏫 Docente.
  - 💻 Desarrollador.
  - 📫 contáctame vía [Mail](mailto:matias.munoz@drackdesign.cl).
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
