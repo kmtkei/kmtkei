@@ -1,7 +1,5 @@
 # Bienvenido
 
-Cuenta dedicada a compartir fundamentos y ejercicios básicos de programación como también la presentación y avance de proyectos personales.
-
 🤓 un poco sobre mi ... 
 
  - 👨‍🎓 Técnico en Informática.
