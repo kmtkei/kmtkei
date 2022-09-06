@@ -23,9 +23,7 @@
 
 
 📚 💻 Repasos y material complementario.
-- [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-C).
-- [Fundamentos de Lenguaje C](https://github.com/kmtkei/Fundamentos-C).
-- [Fundamentos de Lenguaje C#](https://github.com/kmtkei/Fundamentos-C).
+- [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-Lua).
 - [Fundamentos de Lenguaje Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos de Lenguaje Javascript](https://github.com/kmtkei/Fundamentos-Javascript).
 - [Fundamentos de Lenguaje JAVA](https://github.com/kmtkei/Fundamentos-Java).
