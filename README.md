@@ -27,7 +27,7 @@
 - [Fundamentos de Lenguaje Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos de Lenguaje Javascript](https://github.com/kmtkei/Fundamentos-Javascript).
 - [Fundamentos de Lenguaje JAVA](https://github.com/kmtkei/Fundamentos-Java).
-- [Fundamentos de Lenguaje Kotlin](https://github.com/kmtkei/Fundamentos-Java).
+- [Fundamentos de Lenguaje Kotlin](https://github.com/kmtkei/Fundamentos-Kotlin).
 - [Fundamentos de Lenguaje PHP](https://github.com/kmtkei/Fundamentos-Java).
 - [Fundamentos de Lenguaje Ruby](https://github.com/kmtkei/Fundamentos-Java).
 
