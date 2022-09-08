@@ -17,10 +17,6 @@
 - [Proyecto Almacenamiento](https://github.com/kmtkei/FundamentosHTML).
 - [Proyecto Ventas Almacen](https://github.com/kmtkei/FundamentosHTML).
 - [App Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
-- [App Base Contador - Kotlin -](https://github.com/kmtkei/clima).
-- [App para revisar el clima - Kotlin -](https://github.com/kmtkei/clima).
-- [App conversor de divisas - Kotlin -](https://github.com/kmtkei/divisas).
-
 
 📚 💻 Repasos y material complementario.
 - [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-Lua).
