@@ -13,10 +13,7 @@
 📚 💻 Proyectos 2022
 
 - [Proyecto Portafolio Web HTML5/Jquery/SASS](https://github.com/kmtkei/FundamentosHTML).
-- [Proyecto Biblioteca](https://github.com/kmtkei/FundamentosHTML).
-- [Proyecto Almacenamiento](https://github.com/kmtkei/FundamentosHTML).
-- [Proyecto Ventas Almacen](https://github.com/kmtkei/FundamentosHTML).
-- [App Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
+- [PWA Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
 
 📚 💻 Repasos y material complementario.
 - [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-Lua).
