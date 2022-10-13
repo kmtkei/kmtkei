@@ -12,7 +12,7 @@
 
 📚 💻 Proyectos 2022
 
-- [Proyecto Portafolio Web HTML5/Jquery/SASS](https://github.com/kmtkei/FundamentosHTML).
+- [Proyecto Portafolio Web HTML5/Jquery/SASS](https://github.com/kmtkei/Portafolio).
 - [PWA Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
 
 📚 💻 Repasos y material complementario.
@@ -21,6 +21,5 @@
 - [Fundamentos de Lenguaje JAVA](https://github.com/kmtkei/Fundamentos-Java).
 - [Fundamentos de Lenguaje Kotlin](https://github.com/kmtkei/Fundamentos-Kotlin).
 - [Fundamentos de Lenguaje Javascript](https://github.com/kmtkei/Fundamentos-Javascript).
-- [Fundamentos de Lenguaje PHP](https://github.com/kmtkei/Fundamentos-Java).
-- [Fundamentos de Lenguaje Ruby](https://github.com/kmtkei/Fundamentos-Java).
+- [Fundamentos de Lenguaje PHP](https://github.com/kmtkei/Fundamentos-PHP).
 
