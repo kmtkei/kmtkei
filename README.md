@@ -6,7 +6,7 @@
  - 📚 Estudiante de Ingeniería en Informática.
  - 👨‍🏫 Docente.
  - 💻 Desarrollador de Software.
- - 📫 contáctame vía [Mail](mailto:matias.munoz@drackdesign.cl).
+ - 📫 Contáctame vía [Mail](mailto:matias.munoz@drackdesign.cl).
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
  - 📷 Fotógrafo Amateur.
 
