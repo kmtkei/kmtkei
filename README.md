@@ -10,12 +10,12 @@
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
  - 📷 Fotógrafo Amateur.
 
-📚 💻 Proyectos 2022
+📚 💻 Portafolio
 
 - [Proyecto Portafolio Web HTML5/Jquery/SASS](https://github.com/kmtkei/Portafolio).
 - [PWA Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
 
-📚 💻 Repasos y material complementario.
+📚 💻 Repasos y material complementario Alumnos.
 - [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-Lua).
 - [Fundamentos de Lenguaje Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos de Lenguaje JAVA](https://github.com/kmtkei/Fundamentos-Java).
