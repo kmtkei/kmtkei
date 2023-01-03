@@ -5,7 +5,7 @@
  - 👨‍🎓 Técnico en Informática.
  - 📚 Estudiante de Ingeniería en Informática.
  - 👨‍🏫 Docente.
- - 💻 Desarrollador de Software.
+ - 💻 Desarrollador Frontend.
  - 📫 Contáctame vía [Mail](mailto:matias.munoz@drackdesign.cl).
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
  - 📷 Fotógrafo Amateur.
