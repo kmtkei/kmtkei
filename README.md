@@ -12,8 +12,6 @@
 
 📚 💻 Portafolio
 
-- [Proyecto Portafolio Web HTML5/Jquery/SASS](https://github.com/kmtkei/Portafolio).
-- [PWA Lista de Compras REACT ](https://github.com/kmtkei/Lista-Tareas).
 
 📚 💻 Repasos y material complementario Alumnos.
 - [Fundamentos de Lenguaje Lua](https://github.com/kmtkei/Fundamentos-Lua).
