@@ -13,13 +13,21 @@
 :briefcase: Proyectos.
  - Api Fauna Chilena. 
 
-📚 💻 Repasos y material complementario Alumnos.
+📚 💻 Repasos y material complementario.
+- [Fundamentos C] 
 - [Fundamentos Lua](https://github.com/kmtkei/Fundamentos-Lua).
+- [Fundamentos Perl].
+- [Fundamentos Ruby].
+- [Fundamentos Go].
 - [Fundamentos Python](https://github.com/kmtkei/Fundamentos-Python).
-- [Fundamentos JAVA](https://github.com/kmtkei/Fundamentos-Java).
-- [Fundamentos HTML](https://github.com/kmtkei/Fundamentos-Java).
-- [Fundamentos Javascript](https://github.com/kmtkei/Fundamentos-Javascript).
-- [Fundamentos PHP](https://github.com/kmtkei/Fundamentos-PHP).
+- [Fundamentos JAVA].
+
+- [Fundamentos HTML].
+- [Fundamentos Javascript].
+- [Fundamentos PHP].
+- 
 - [Fundamentos Kotlin](https://github.com/kmtkei/Fundamentos-Kotlin).
+- 
+
 
 
