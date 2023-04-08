@@ -21,13 +21,10 @@
 - [Fundamentos Go].
 - [Fundamentos Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos JAVA].
-
 - [Fundamentos HTML].
 - [Fundamentos Javascript].
 - [Fundamentos PHP].
-- 
 - [Fundamentos Kotlin](https://github.com/kmtkei/Fundamentos-Kotlin).
-- 
 
 
 
