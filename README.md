@@ -14,11 +14,7 @@
  - Api Fauna Chilena. 
 
 📚 💻 Repasos y material complementario.
-- [Fundamentos C] 
 - [Fundamentos Lua](https://github.com/kmtkei/Fundamentos-Lua).
-- [Fundamentos Perl].
-- [Fundamentos Ruby].
-- [Fundamentos Go].
 - [Fundamentos Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos JAVA](https://github.com/kmtkei/Fundamentos-Java).
 - [Fundamentos HTML-CSS](https://github.com/kmtkei/FundamentosHTML).
