@@ -17,7 +17,7 @@
 - [Fundamentos Lua](https://github.com/kmtkei/Fundamentos-Lua).
 - [Fundamentos Python](https://github.com/kmtkei/Fundamentos-Python).
 - [Fundamentos JAVA](https://github.com/kmtkei/Fundamentos-Java).
-- [Fundamentos C#].
+- [Fundamentos C#](https://github.com/kmtkei/Fundamentos-CSharp).
 - [Fundamentos HTML-CSS-Javascript](https://github.com/kmtkei/FundamentosHTML).
 - [Fundamentos PHP](https://github.com/kmtkei/FundamentosPHP).
 - [Fundamentos Kotlin](https://github.com/kmtkei/Fundamentos-Kotlin).
