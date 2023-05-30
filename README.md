@@ -10,9 +10,6 @@
  - 👤 Encuéntrame en [linkedin](https://www.linkedin.com/in/mmunozacevedo/). 
  - 📷 Fotógrafo Amateur.
  
-:briefcase: Proyectos.
- - Api Fauna Chilena. 
-
 📚 💻 Repasos y material complementario.
 - [Fundamentos Lua](https://github.com/kmtkei/Fundamentos-Lua).
 - [Fundamentos Python](https://github.com/kmtkei/Fundamentos-Python).
