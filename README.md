@@ -3,24 +3,23 @@
 ### Sobre Mí
 Soy un apasionado de la tecnología con una sólida formación en informática y experiencia en desarrollo full stack y de videojuegos. Mi objetivo es seguir creciendo profesionalmente y contribuir con soluciones innovadoras en el campo del desarrollo de software.
 
-- 🎓 **Técnico en Informática**
-- 📚 **Estudiante de Ingeniería en Informática**
+- 🎓 **Ingeniero en Informática**
 - 👨‍🏫 **Experiencia como Docente**
 - 💻 **Desarrollador FullStack**
 - 🎮 **Desarrollador de Videojuegos**
 
 ### Habilidades
 
-- **Lenguajes de Programación**: JavaScript, Python, C#, Ruby
-- **Frameworks y Librerías**: Angular, Node.js, Express, Unity, Ruby on Rails
+- **Lenguajes de Programación**: JavaScript, TypeScript, Python, C#, Ruby, PHP, Java, Kotlin
+- **Frameworks y Librerías**: Angular - Ruby on Rails - flask - laravel - React - Node - Express - Nest - Ionic.
 - **Bases de Datos**: MySQL, MongoDB, Postgres
-- **Otros**: Git, Docker.
+- **Otros**: Git, Docker, Jira, Bitbucket, Confluence, Figma.
 - 
 ### Experiencia
 
-- **Docente**: [AIEP - San Antonio] - Docente de asignaturas relacionadas con fundamentos y programación web y mobile.
-- **Desarrollador FullStack**: [Angular - Ruby on Rails - flask - laravel ] - He participado en proyectos que incluian principalmente estos frameworks.
-- **Desarrollador de Videojuegos**: [ -- ] - Desarrollo de modalidad 3era persona para videojuego tematica espacial (En Desarrollo).
+- **Docente**: [AIEP - San Antonio] - Docente de asignaturas relacionadas con fundamentos, desarrollo web y Mobile.
+- **Desarrollador FullStack**: [Angular - Ruby on Rails - flask - laravel - React - Nest ].
+- **Desarrollador de Videojuegos**: [ Unity ] - Desarrollo de modalidad 3era persona para videojuego tematica espacial (En Desarrollo).
 
 📚 💻 Repasos y material complementario.
 - [Fundamentos Lua](https://github.com/kmtkei/Fundamentos-Lua).
